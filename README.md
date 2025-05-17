@@ -6,7 +6,7 @@ I make useless libraries and softwares for you to use. I'm also a so-called UTAU
 
 <div style="display:inline-block;vertical-align:top;">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbekkomo&theme=tokyonight&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0komo&theme=tokyonight&layout=donut)
 
 </div>
 </br>
